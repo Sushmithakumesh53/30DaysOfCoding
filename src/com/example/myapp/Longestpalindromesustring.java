@@ -26,7 +26,7 @@ public class Longestpalindromesustring {
 				rev = rev + ch;
 			}	
 			return rev.equals(sub);
-			
+
 		}	
 }
 

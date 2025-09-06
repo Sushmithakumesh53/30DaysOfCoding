@@ -19,8 +19,8 @@ public class ReverseaStringWithoutUsingTemporaryVariable {
 			left++;
 			right--;
 		}
-		return new String(ch);
+		return ch.toString();
 	}
-	
+	           
 
 }
