@@ -12,7 +12,7 @@ public class extractthedigitfromastring {
 			}
 		}
 		System.out.print("digits: "+ digit);
-		sc.close();
+		sc.close();/ 
 	}
 
 
